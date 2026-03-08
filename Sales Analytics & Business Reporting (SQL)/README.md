@@ -24,7 +24,7 @@ The goal is to transform raw warehouse data into **actionable business insights*
 ```
 sales-analytics
 │
-├── sql
+├── analytics
 │   ├── eda.sql
 │   ├── advanced_analysis.sql
 │   ├── customer_report.sql
