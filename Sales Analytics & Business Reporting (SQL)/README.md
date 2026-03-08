@@ -31,7 +31,7 @@ sales-analytics
 │   └── product_report.sql
 │
 ├── docs
-│   └── analytics_explanation.md
+│
 │
 └── README.md
 ```
