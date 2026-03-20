@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 This project is a simple **automated data pipeline** that tracks product information from an Amazon page using web scraping techniques.
---followed Alex The Analyst
+The project was inspired by and developed while following Alex The Analyst.
 
 The script extracts key product details such as:
 
